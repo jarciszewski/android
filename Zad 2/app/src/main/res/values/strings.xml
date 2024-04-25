@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="title_recycler_view_item">recycler_view_item</string>
+    <string name="hello_world">Hello Square World!</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="webiste">Webiste</string>
+    <string name="android_version">Android version</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="model">Model</string>
+    <string name="website">Website</string>
+    <string name="save">save</string>
+    <string name="empty">Empty</string>
+    <string name="error">Error</string>
+    <string name="edit_text">EDIT</string>
+    <string name="cleared">Cleared</string>
+    <string name="unkown_result">Unknown result</string>
+    <string name="ClearAllData" type="id" />
+</resources>
